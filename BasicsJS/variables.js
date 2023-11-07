@@ -8,13 +8,32 @@ console.log(userID)
 /*
 Variable Types:
 1. Primitive
-a. String
-b. Integer
-c. undefined
-d. null
-e. Bigint
+    a. String
+    b. Number
+    c. Undefined
+    d. Null
+    e. Bigint
+    f. Symbol
+    e. Boolean
 
-2. Non-primitive
-
-
+2. Non-primitive (Reference) - Objects
+    a. Arrays
+    b. Objects
+    c. Functions
 */
+
+
+// Array
+let userArr = ["Rajat", "Kapil", "Ruthvic"]
+
+// Object
+let userObj = {
+    name: "John",
+    age: 30,
+    isLoggedIn: true
+}
+
+// Function
+let loginUser = function(){
+    console.log("Hello World")
+}
