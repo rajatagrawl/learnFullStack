@@ -7,7 +7,7 @@ console.log(userID)
 
 /*
 Variable Types:
-1. Primitive
+1. Primitive (STACK)
     a. String
     b. Number
     c. Undefined
@@ -16,7 +16,7 @@ Variable Types:
     f. Symbol
     e. Boolean
 
-2. Non-primitive (Reference) - Objects
+2. Non-primitive (Reference) - Objects - (HEAP)
     a. Arrays
     b. Objects
     c. Functions
