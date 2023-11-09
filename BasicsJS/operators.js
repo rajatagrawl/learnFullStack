@@ -1,7 +1,7 @@
 // Arithmetic Operator
 
 let numberOne = 2 + 2
-console.log(numberOne)
+console.warn(numberOne)
 
 // Assignment Operator
 let numberTwo = numberOne
