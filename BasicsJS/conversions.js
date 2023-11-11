@@ -1,4 +1,4 @@
-let bankBalance = '100'
+let bankBalance = '1000'
 
 let bankBalanceInInt = parseFloat(bankBalance)
 
