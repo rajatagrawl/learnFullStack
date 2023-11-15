@@ -1,5 +1,6 @@
 const user = {
     userName: "Rajat",
+    "last Name": "Agrawal",
     age: 22,
     email: "rajat@agrawal.com",
     favCrics: ["Dhoni", "Virat", "Ganguly"],
@@ -15,9 +16,11 @@ const user = {
 // console.log(user.address.state);
 // console.log(user.address['city']);
 
-const user2 = user;
+// const user2 = user;
 
-user.age = 25
-console.log(user2);
-delete user.email;
-console.log(user2);
+// user.age = 25
+// console.log(user2);
+// delete user.email;
+// console.log(user2);
+
+console.log(user["last Name"]);
