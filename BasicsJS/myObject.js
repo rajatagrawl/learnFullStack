@@ -29,3 +29,5 @@ const user = {
 // console.log(typeof num);
 
 console.log(Object.keys(user));
+
+console.log(Object.values(user));
