@@ -23,4 +23,9 @@ const user = {
 // delete user.email;
 // console.log(user2);
 
-console.log(user["last Name"]);
+// console.log(user["last Name"]);
+
+// const num = new Number(5);
+// console.log(typeof num);
+
+console.log(Object.keys(user));
