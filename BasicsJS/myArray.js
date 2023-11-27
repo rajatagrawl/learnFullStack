@@ -4,7 +4,7 @@
 // const myNewArray = new Array(7, 8, "Yuvraj", "Sachin")
 // console.log(myNewArray);
 
-const marvel = ["Ironman", "Captain America", "Hulk", "Natasha", "Spiderman"]
+const marvel = ["Ironma", "Captain America", "Hulk", "Natasha", "Spiderman"]
 // console.log(marvel);
 // marvel.push("Thor")
 // console.log(marvel);
