@@ -1,4 +1,4 @@
-let reviewRating = "7"
+let reviewRating = "2"
 
 revInInt = parseInt(reviewRating);
 
